@@ -1,22 +1,147 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 1,
+    "name": "Stereo Madness",
+    "author": "RobTop",
+    "creators": ["RobTop"],
+    "verifier": "RobTop",
+    "verification": "link",
     "percentToQualify": "100",
-    "password": "46290",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Faaris Khan", (29 janv. 2016)
+            "link": "https://youtu.be/RHsLdKUhWNY",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "ViiRUS Does YT", (2 avr. 2016)
+            "link": "https://youtu.be/Mj3xUWWFyfg",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "rasta tV", (9 mai 2016)
+            "link": "https://youtu.be/g8_afZAC_UQ",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Костя Дейнеко", (23 sept. 2016)
+            "link": "https://youtu.be/q7OmzNp3j6k",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Geometry Guys", (10 janv. 2017)
+            "link": "https://youtu.be/Ws3lZSJadTw",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "RHE Notix", (29 juin 2018)
+            "link": "https://youtu.be/HKCgmDDv3Js",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "assansayan games", (16 déc. 2020)
+            "link": "https://youtu.be/1lX3jDBL9Ng",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "SirNubal", (16 janv. 2021)
+            "link": "https://youtu.be/3Mysf50n-KU",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Zipper Gaming", (9 févr. 2021)
+            "link": "https://youtu.be/RaEnySLyZCU",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Andrea Scalise", (19 mars 2021)
+            "link": "https://youtu.be/JzWHFiAZ3xY",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "LexGamer09", (2 juil. 2021)
+            "link": "https://youtu.be/8ZKxiiga4O8",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Ivictor Gamer [GD]", (9 mars 2022)
+            "link": "https://youtu.be/Zf4Rom_LoOw",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Fytx", (25 juin 2023)
+            "link": "https://youtu.be/HGZWQtKphlg",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "xnyyct", (7 août 2024)
+            "link": "https://youtu.be/cXJS5o3vdu8",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "MarioGD", (3 juil. 2025)
+            "link": "https://youtu.be/01RVWwe7NwE",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Matias7", (7 juil. 2025)
+            "link": "https://youtu.be/RNU1Fi77WZA",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Arthur Bridges", (8 juil. 2025)
+            "link": "https://youtu.be/99Z0TXWDBwo",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "ZERO [GD]", (15 juil. 2025)
+            "link": "https://youtu.be/MdDPlWJf8_Q",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Anal0g", (20 juil. 2025)
+            "link": "https://youtu.be/40vAutBvv58",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Poncho3334", (25 juil. 2025)
+            "link": "https://youtu.be/JnY1Fl18x18",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "tironix1", (31 juil. 2025)
+            "link": "https://youtu.be/bpRT8RFJnbA",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Smesper", (5 août 2025)
+            "link": "https://youtu.be/oC2PE8PaDSU",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "AidanGD", (7 août 2025)
+            "link": "https://youtu.be/rdD_pevo04M",
             "percent": 100,
             "hz": 120
         }
