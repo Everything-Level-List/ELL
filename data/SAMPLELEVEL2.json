@@ -4,9 +4,104 @@
     "author": "RobTop",
     "creators": [],
     "verifier": "RobTop",
-    "verification": "https://youtu.be/TBocac5yrv8?list=RDTBocac5yrv8",
+    "verification": "https://youtu.be/O3mJu8VPHh8?list=RDO3mJu8VPHh8",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "StiGMa",
+            "link": "https://youtu.be/O3mJu8VPHh8?list=RDO3mJu8VPHh8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Conrad Hellman",
+            "link": "https://youtu.be/TBocac5yrv8?list=RDTBocac5yrv8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Infinity46",
+            "link": "https://youtu.be/5fz5DdbQagU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Cosmic Hexagon",
+            "link": "https://youtu.be/r6LUDVRlXAo",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Zobros",
+            "link": "https://youtu.be/ClW9MUeq6ug",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Serkos",
+            "link": "https://youtu.be/vcBSyje7cTY",
+            "percent": 100,
+            "hz": 60
+        },{
+            "user": "JB",
+            "link": "https://youtu.be/HimUtfpNp4Q",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SamSamii 2.0",
+            "link": "https://youtu.be/7yi97FqsKE8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZachTheArcticWoof",
+            "link": "https://youtu.be/FrwBh8mEuqk",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Leadax",
+            "link": "https://youtu.be/V-zfe212rQw",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "HotCocoa",
+            "link": "https://youtu.be/T6iaZWFk49o",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "nopsxs",
+            "link": "https://youtu.be/7uv0CgbI1rM",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Valquouti",
+            "link": "https://youtu.be/syj2UDCLp_E",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Chris Ukoh",
+            "link": "https://youtu.be/kvAdQ50Pr0U",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Vikcraftt303",
+            "link": "https://youtu.be/4nfE_BMn2OE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Nacho GD",
+            "link": "https://youtu.be/1_lwIp7pTbQ",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
