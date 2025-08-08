@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "Conrad Hellman",
+            "link": "https://youtu.be/jKlSuCTxa3I",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "Pepega Sadge",
             "link": "https://youtu.be/ZmMBOY-UhR8",
             "percent": 100,
