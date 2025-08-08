@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "Simos805",
+            "link": "https://www.youtube.com/watch?v=uwGaJ5J8xKw",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "razing717",
             "link": "https://youtu.be/2nYa0PHz-Eg",
             "percent": 100,
@@ -16,6 +22,12 @@
         {
             "user": "WorldGame",
             "link": "https://youtu.be/CND6DSWT85s",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "GeometryDash",
+            "link": "https://youtu.be/08gWNJyzGf0",
             "percent": 100,
             "hz": 60
         }
